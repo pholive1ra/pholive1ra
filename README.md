@@ -1,5 +1,6 @@
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
+
 # 👋 Olá, eu sou o Pedro!
 
 Sou um estudante cursando **Análise e Desenvolvimento de Sistemas**, com forte interesse em **desenvolvimento Front-End**,  
