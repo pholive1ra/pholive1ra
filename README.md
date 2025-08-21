@@ -25,6 +25,15 @@ foco em **usabilidade, performance e boas práticas de codificação**. 🚀
 
 ---
 
+## 📫 Conecte-se comigo
+<div align="center">
+  <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
+
+
+---
 ⭐️ Em constante evolução!  
 
 <!-- Wave Footer -->
