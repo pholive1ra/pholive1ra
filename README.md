@@ -25,8 +25,9 @@ foco em **usabilidade, performance e boas práticas de codificação**. 🚀
 
 ---
 
+
+## 📫 Conecte-se comigo
 <div align="center">
-  ## 📫 Conecte-se comigo
   <a href="https://www.linkedin.com/in/pedrohnrqdev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
