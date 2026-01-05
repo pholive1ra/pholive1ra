@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou o Pedro!
 
-Sou um estudante cursando **Análise e Desenvolvimento de Sistemas**, com forte interesse em **desenvolvimento Front-End**,  
+Sou formado em **Análise e Desenvolvimento de Sistemas**, tenho forte interesse em **desenvolvimento Front-End**,  
 foco em **usabilidade, performance e boas práticas de codificação**. 🚀
 
 ---
