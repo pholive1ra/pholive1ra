@@ -3,8 +3,7 @@
 
 # 👋 Olá, eu sou o Pedro!
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, tenho forte interesse em **desenvolvimento Front-End**,  
-foco em **usabilidade, performance e boas práticas de codificação**. 🚀
+**Desenvolvedor de Software @CraseSigma** 🚀
 
 ---
 
