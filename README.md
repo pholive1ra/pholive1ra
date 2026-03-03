@@ -1,9 +1,9 @@
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 
-# 👋 Olá, eu sou o Pedro!
+# 👋
 
-**Desenvolvedor de Software @CraseSigma** 
+**Software Developer @CraseSigma** 
 
 ---
 
@@ -25,7 +25,7 @@
 ---
 
 
-## 📫 Conecte-se comigo
+## 📫 Connect me
 <div align="center">
   <a href="https://www.linkedin.com/in/pedrohnrqdev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
@@ -34,7 +34,7 @@
 
 
 ---
-⭐️ Em constante evolução!  
+⭐️ Constantly evolving!  
 
 <!-- Wave Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
