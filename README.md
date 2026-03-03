@@ -3,7 +3,7 @@
 
 # 👋 Olá, eu sou o Pedro!
 
-**Desenvolvedor de Software @CraseSigma** 🚀
+**Desenvolvedor de Software @CraseSigma** 
 
 ---
 
