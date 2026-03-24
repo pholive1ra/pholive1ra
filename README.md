@@ -1,14 +1,13 @@
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 
-**Software Developer @CraseSigma** 
+**Software Developer Front-End @CraseSigma** 
 
 ---
 
 ## 🚀 My Stack
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
