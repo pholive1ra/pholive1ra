@@ -1,7 +1,7 @@
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 
-**Software Developer Front-End @CraseSigma** 
+**Full Stack Software Engineer @CraseSigma** 
 
 ---
 
