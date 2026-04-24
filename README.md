@@ -7,8 +7,6 @@
 
 ## 🚀 My Stack
 
-## 🚀 My Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,java,postgres,ts,git,github" />
 </p>
