@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 Stack principal (Backend)
+## 🚀 Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,docker,kubernetes,postgres,git,github" />
 </p>
