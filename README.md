@@ -1,7 +1,7 @@
 <!-- Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=header"/>
 
-<p align="center"><b>Software Engineer @Crase Sigma</b></p>
+<p align="center"><b>Software Engineer @CraseSigma</b></p>
 
 ---
 
